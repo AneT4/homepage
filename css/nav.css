@@ -1,0 +1,26 @@
+.nav__list {
+	list-style: none;
+}
+
+.nav__link:link {
+	color: royalblue;
+	text-decoration: none;
+}
+
+.nav__link:visited {
+	color: rgb(31, 55, 125);
+}
+
+.nav__link:focus {
+	outline: 2px solid currentColor;
+}
+
+.nav__link:hover {
+    color: blueviolet;
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.nav__link:active {
+    color: orchid;
+}

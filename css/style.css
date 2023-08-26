@@ -1,0 +1,35 @@
+html {
+	box-sizing: border-box;
+	font-family: "Lato", sans-serif;
+	font-size: 20px;
+	line-height: 1.5;
+}
+
+*,
+::after,
+::before {
+	box-sizing: inherit;
+}
+
+.header {
+	color: rgb(223, 81, 202);
+	background-color: lavenderblush;
+	text-align: center;
+    text-shadow: 0 0 15px #eb64b3;
+}
+
+.main {
+	max-width: 1000px;
+	margin: 100px;
+}
+
+.violet {
+	color: white;
+	background-color: rgba(159, 83, 178, 0.339);
+}
+
+.footer {
+    font-style: italic;
+    text-align: center;
+    margin: 70px auto;
+}

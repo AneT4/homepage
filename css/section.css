@@ -1,0 +1,15 @@
+
+.section__boxColor {
+	color: rgb(161, 44, 146);
+}
+
+.section__ciekawyElement {
+	color: blueviolet;
+}
+
+.section__foto {
+    border: 2px dotted blueviolet;
+    padding: 3px;
+    border-radius: 30px;
+    box-shadow: 20px 20px 30px rgba(231, 148, 217, 0.676);
+}
